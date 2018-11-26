@@ -24,18 +24,8 @@ http://tributary.io
 
 https://github.com/d3/d3-plugins
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
+https://github.com/takagotch/d3
 
 
 
